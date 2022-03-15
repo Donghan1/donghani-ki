@@ -5,7 +5,7 @@
 
  # IT
  
- Lorem ipsum dolor sit amet, consectetur adipisicing elit ,quis
+ Lorem ipsum dolor sit amet. consectetur adipisicing elit ,quis
  **nostrud exercitation**
  
  ## Code
