@@ -10,8 +10,8 @@
  
  ### code
 
-###javascript
-'''vaarfoo = 'bar';
+'''javascript
+vaarfoo = 'bar';
 if(true) foo ='foo';
 '''
 
