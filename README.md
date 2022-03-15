@@ -11,7 +11,7 @@
  ## code
 
 '''javascript
-vaarfoo = 'bar';
+var foo = 'bar';
 if(true) foo ='foo';
 '''
 
