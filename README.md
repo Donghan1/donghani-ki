@@ -19,4 +19,4 @@ if(true) foo ='foo';
 
 First Header |Second Header
 -------------|-----------------
-Contect from cell 1 | ontent from cell 2
+Contect from cell 1 | Content from cell 2
